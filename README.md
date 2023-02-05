@@ -21,6 +21,7 @@
 - [Materials](#materials)
    - [Books](#books)
    - [Videos](#videos)
+   - [Reading Materials](#reading-materials)
 
 ## Ecosystem
 
@@ -51,6 +52,8 @@
 
 - [JAX](https://github.com/google/jax) - Extends NumPy by ML purpose, [Autograd](https://github.com/hips/autograd) and [XLA](https://www.tensorflow.org/xla) project.
 - [AutoGrad](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
+- [TensorFlow NumPy](https://www.tensorflow.org/guide/tf_numpy) - A subset of the NumPy API implemented in TensorFlow.
+- [NumPy ML](https://github.com/ddbourgin/numpy-ml) - Collection of ML models, algorithms, & tools using NumPy and Python standard lib.
 
 ## Community
 
@@ -83,3 +86,8 @@
 ### Videos
 
 - [Inside NumPy - Barkeley Institute for Data Science (BIDS)](https://www.youtube.com/watch?v=fowHwlpGb34)
+
+### Reading Materials
+
+- [NumPy Cheat Sheet: Data Analysis in Python](https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python)
+- [Faster Python calculations with Numba: 2 lines of code, 13× speed-up](https://pythonspeed.com/articles/numba-faster-python/)
