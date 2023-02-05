@@ -10,7 +10,6 @@
 
 - [Ecosystem](#ecosystem)
    - [Core](#core)
-      - [Core dependencies](#core-dependencies)
    - [Hardware acceleration](#hardware-acceleration)
    - [Jit Compiler](#jit-compiler)
    - [AI/ML](#aiml)
@@ -33,8 +32,14 @@
 #### Core dependencies
 
 - [ATLAS](http://math-atlas.sourceforge.net/) - Automatically Tuned Linear Algebra Software.
-- [Blas](http://www.netlib.org/blas/) - Basic Linear Algebra Subprograms.
-- [LAPACK](http://www.netlib.org/lapack/) - Linera Algebra PACKage.
+- [BLAS](http://www.netlib.org/blas/) - Basic Linear Algebra Subprograms.
+- [LAPACK](http://www.netlib.org/lapack/) - Linera Algebra Package.
+- [FFT](https://www.fftw.org/) - library for efficient computation of the discrete Fourier transform.
+
+### Extended library
+
+- [Blaze](https://blaze.readthedocs.io/en/latest/index.html) - A high-level library, It provides compatible interface with NumPy.
+- [Numexpr](https://github.com/pydata/numexpr) - Fast numerical expression evaluator for NumPy.
 
 ### Hardware acceleration
 
@@ -63,6 +68,8 @@
 - [EuroSciPy](https://www.euroscipy.org/)
 - [SciPy India](https://scipy.in/2021)
 - [PyData](https://pydata.org/event-schedule/)
+- [PyCon](https://pycon.org/)
+- [O'Reilly AI Conference](https://www.oreilly.com/conferences/)
 
 ### Channels
 
