@@ -1,10 +1,6 @@
-<h1 align="center">Awesome NumPy</h1>
-<p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a></p>
-<p align="center"> Awesome list of numpy</p>
-
-<p align="center">
-    <img with="740" src="./cover.png" alt="Awesome Numpy - Awesome list of numpy" />
-</p>
+# Awesome NumPy [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome list of NumPy
+![Awesome NumPy - Awesome list of NumPy](./cover.png)
 
 ## Contents
 
